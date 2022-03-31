@@ -1,4 +1,4 @@
-PHP-CSS-Parser-8.2.0
+PHP-CSS-Parser-8.3.0
 
 
 

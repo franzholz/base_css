@@ -1,3 +1,6 @@
+2022-03-31 Franz Holzinger <franz@ttproducts.de>
+    * PHP-CSS-Parser 8.3.0
+
 2018-12-01 Franz Holzinger <franz@ttproducts.de>
     * initial creation based on PHP-CSS-Parser 8.1.0: See the file Vendor/version.txt and https://github.com/sabberworm/PHP-CSS-Parser/releases .
 
