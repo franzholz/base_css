@@ -4,11 +4,11 @@
 # Extension Manager/Repository config file for ext "base_css".
 ########################################################################
 
-$EM_CONF[$_EXTKEY] = array(
+$EM_CONF[$_EXTKEY] = [
     'title' => 'CSS Parser',
     'description' => 'This provides the PHP-CSS-Parser.',
     'category' => 'misc',
-    'version' => '0.0.1',
+    'version' => '0.0.2',
     'state' => 'stable',
     'uploadfolder' => 0,
     'createDirs' => '',
@@ -16,14 +16,14 @@ $EM_CONF[$_EXTKEY] = array(
     'author' => 'Raphael Schweikert, Franz Holzinger',
     'author_email' => 'franz@ttproducts.de',
     'author_company' => 'jambage.com',
-    'constraints' => array(
-        'depends' => array(
+    'constraints' => [
+        'depends' => [
             'php' => '5.4.0-7.0.99',
             'typo3' => '6.2.0-9.3.99'
-        ),
-        'conflicts' => array(
-        ),
-        'suggests' => array(
-        ),
-    ),
-);
+        ],
+        'conflicts' => [
+        ],
+        'suggests' => [
+        ]
+    ]
+];
