@@ -1,3 +1,7 @@
+2024-12-03 Franz Holzinger <franz@ttproducts.de>
+    * Support for TYPO3 13
+    * PHP-CSS-Parser 8.7.0
+
 2022-03-31 Franz Holzinger <franz@ttproducts.de>
     * PHP-CSS-Parser 8.3.0
 
